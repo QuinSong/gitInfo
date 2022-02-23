@@ -1,3 +1,4 @@
+git clone - clone repository
 git status - get current status
 git add - adds element in preperation to commit 
           . adds all folder elements
@@ -6,4 +7,3 @@ git add - adds element in preperation to commit
 git commit -m "Title" -m "Description" - save locally
 git push origin master - save on Github
 
-not sure 
