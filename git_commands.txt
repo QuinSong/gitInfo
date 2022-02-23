@@ -1,0 +1,9 @@
+git status - get current status
+git add - adds element in preperation to commit 
+          . adds all folder elements
+          else add specific file
+
+git commit -m "Title" -m "Description" - save locally
+git push origin master - save on Github
+
+not sure 
