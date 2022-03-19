@@ -1,9 +1,23 @@
 git clone - clone repository
+
+
+Create new repository on Github
+Run:
+git init
+git config user.name "QuinSong"
+git config user.email "quinsong@protonmail.com"
+
 git status - get current status
 git add - adds element in preperation to commit 
           . adds all folder elements
           else add specific file
+Remove an add . file:
+git rm --cached filename
 
-git commit -m "Title" -m "Description" - save locally
-git push origin master - save on Github
+git commit -m "Message" 
+git branch -M main
+git push -u origin main
+
+
+
 
