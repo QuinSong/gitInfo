@@ -19,5 +19,14 @@ git branch -M main
 git push -u origin main
 
 
+MAC TERMINAL SHOW HIDDEN FILES:
+defaults write com.apple.Finder AppleShowAllFiles true
+killall Finder
+
+HIDE HIDDEN FILES:
+defaults write com.apple.Finder AppleShowAllFiles false
+killall Finder
+
+
 
 
